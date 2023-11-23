@@ -13,5 +13,5 @@ To respond to the rapidly changing labor market, a job classification system is 
 
 ## Installation
 
-`pip install neo4j`
-'pip install neo4j-driver'
+`pip install neo4j` <br>
+`pip install neo4j-driver`
