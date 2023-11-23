@@ -8,4 +8,10 @@ To respond to the rapidly changing labor market, a job classification system is 
 - Worknet API를 통해 구직공고 데이터를 MongoDB 데이터베이스에 수집
 - GPT API를 통해 자연어로 기술된 구직공고의 구직역량을 처리 (직업/기술 데이터 셋)
 - 직업/기술 구직 데이터를 그래프 노드로 구성하여 직업 간 유사성 확인
-- 직업 유사성을 기반으로 Node2vec를 사용하여 직업 노드를 임베딩  
+- 직업 유사성을 기반으로 Node2vec를 사용하여 직업 노드를 임베딩
+
+
+## Installation
+
+`pip install neo4j`
+'pip install neo4j-driver'
