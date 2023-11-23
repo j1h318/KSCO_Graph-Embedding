@@ -11,6 +11,7 @@ To respond to the rapidly changing labor market, a job classification system is 
 - 직업 유사성을 기반으로 Node2vec를 사용하여 직업 노드를 임베딩
 
 ## 그래프 기반의 직업/기술 분류모델
+Neo4j Aura 직업-기술 예시용 이미지
 ![직업-기술 그래프 모델](https://github.com/j1h318/KSCO_Graph-Embedding/assets/57842978/aa1fb768-d4f1-4d1f-9ca3-96b5259098a3)
 
 ## Installation
