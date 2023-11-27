@@ -14,6 +14,10 @@ To respond to the rapidly changing labor market, a job classification system is 
 Neo4j Aura 직업-기술 예시용 이미지
 ![직업-기술 그래프 모델](https://github.com/j1h318/KSCO_Graph-Embedding/assets/57842978/aa1fb768-d4f1-4d1f-9ca3-96b5259098a3)
 
+## 임베딩 값을 기반으로 유사 직업 탐색
+직업 노드의 임베딩 결과
+![embedding](https://github.com/j1h318/KSCO_Graph-Embedding/assets/57842978/a1a849d3-2d68-4ca8-aee1-ce475925b1e5)
+
 ## Installation
 
 `pip install neo4j` <br>
